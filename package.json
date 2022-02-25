@@ -6,7 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "callback": "node src/index.js",
-    "callback:api": "node src/api-callbacks.js"
+    "callback:api": "node src/api-callbacks.js",
+    "promise": "node src/promises.js",
+    "promise:api": "node src/api-promises.js"
   },
   "author": "RamsesCamas",
   "license": "ISC",

@@ -8,7 +8,9 @@
     "callback": "node src/index.js",
     "callback:api": "node src/api-callbacks.js",
     "promise": "node src/promises.js",
-    "promise:api": "node src/api-promises.js"
+    "promise:api": "node src/api-promises.js",
+    "async": "node src/async-await.js",
+    "async:api": "node src/api-async.js"
   },
   "author": "RamsesCamas",
   "license": "ISC",
